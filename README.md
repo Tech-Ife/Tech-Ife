@@ -23,6 +23,6 @@ Currently open to hybrid/remote roles in cybersecurity (forensics, GRC, SecOps) 
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ifeanyiedeh/)
 - 📧 edehchristian@gmail.com  
-- 💼 [Portfolio](https://docs.google.com/document/d/1xLXf7g0G4Sg5VXtQ_IrRxl6SW5IW6oFQYds5DRMYPE8/edit?usp=sharing)
+- 💼 [Portfolio](https://drive.google.com/drive/folders/1zdRDotwKz8zLmzDuRyPpjdM29y882-nc?usp=sharing)
 
 Let’s collaborate on securing the future!
