@@ -52,10 +52,11 @@ I’m a cybersecurity and GRC professional with expertise in risk management, co
 ---
 
 ##  📁 Featured Projects  
-- [LogHawk](https://github.com/Tech-ife/LogHawk) – Real-time log monitoring tool for detecting suspicious patterns and sending alerts.  
+- [LogHawk](https://github.com/Tech-ife/LogHawk) – Real-time log monitoring tool for detecting suspicious patterns and sending alerts.
+- [ISO 27001 Risk Management Plan](https://github.com/Tech-Ife/Risk-Management-Plan-)
 - [NIST RMF Risk Management Plan](#) – Comprehensive framework applying NIST principles for enterprise risk mitigation.  
 - [Digital Forensics Investigation](#) – Advanced forensic analysis using Volatility and Autopsy for malware detection.  
-
+  
 ---
 
 ## 🌐 Connect with Me  
