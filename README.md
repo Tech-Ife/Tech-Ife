@@ -65,7 +65,6 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=github)](https://yourportfolio.com)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:edehchristian@gmail.com)  
 
-### 📁 Featured Projects
 My repositories showcase hands-on projects built during my Lighthouse Labs Cybersecurity Bootcamp — including:
 - **Forensic Investigations** (memory/disk analysis, network traffic capture)
 - **Risk Management Plans** (NIST/ISO-compliant documentation)
