@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Ifeanyi  
+#  Hi, I'm Ifeanyi  
 **Cybersecurity | InfoSec | Governance, Risk & Compliance (GRC) |  Security Awareness | Security Audits (NIST/ISO) | Project Management**
 
 ---
 
-## 🧑‍💻 About Me  
+##  About Me  
 I’m a cybersecurity and GRC professional with expertise in risk management, compliance strategy, and security awareness. Passionate about making security clear and actionable for businesses, I help organizations align with ISO, NIST, and GDPR frameworks while integrating security into daily operations.
 
 ---
 
-## 📜 Certifications 
+##  Certifications 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 [![🔐 Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional-blue?logo=google)](https://www.coursera.org/professional-certificates/google-cybersecurity)
 [![🖥️ ServiceNow Admin](https://img.shields.io/badge/ServiceNow-System%20Administrator-blue?logo=servicenow)](https://www.servicenow.com)
@@ -19,7 +19,7 @@ I’m a cybersecurity and GRC professional with expertise in risk management, co
 
 ---
 
-## 🧩 Cybersecurity Frameworks & Methodologies  
+##  Cybersecurity Frameworks & Methodologies  
 [![NIST RMF](https://img.shields.io/badge/NIST-RMF-blue?logo=nist)](https://csrc.nist.gov/projects/risk-management)
 [![NIST CSF](https://img.shields.io/badge/NIST-CSF-blueviolet?logo=nist)](https://www.nist.gov/cyberframework)
 [![ISO 27001](https://img.shields.io/badge/ISO-27001-green)](https://www.iso.org/isoiec-27001-information-security.html)
@@ -30,7 +30,7 @@ I’m a cybersecurity and GRC professional with expertise in risk management, co
 
 ---
 
-## 🛠️ Professional Skillset & Security Toolkit 
+##  Professional Skillset & Security Toolkit 
 ![SAP](https://img.shields.io/badge/SAP-ERP-0FAAFF?logo=sap&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL-Service%20Management-6DB33F?logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-1C1C1C?logo=servicenow)
@@ -52,9 +52,10 @@ I’m a cybersecurity and GRC professional with expertise in risk management, co
 ---
 
 ##  📁 Featured Projects  
-- [LogHawk](https://github.com/Tech-ife/LogHawk) – Real-time log monitoring tool for detecting suspicious patterns and sending alerts.
+- [Automation Tool LogHawk](https://github.com/Tech-ife/LogHawk) – Real-time log monitoring tool for detecting suspicious patterns and sending alerts.
 - [ISO 27001 Risk Management Plan](https://github.com/Tech-Ife/Risk-Management-Plan-)
-- [NIST RMF Risk Management Plan](#) – Comprehensive framework applying NIST principles for enterprise risk mitigation.  
+- [NIST RMF Risk Management Plan](#) – Comprehensive framework applying NIST principles for enterprise risk mitigation.
+- [SSH Hardening](https://github.com/Tech-Ife/SSH-for-Secure-and-Encrypted-Communication) - Secure Encryption Communication using SSH 
 - [Digital Forensics Investigation](#) – Advanced forensic analysis using Volatility and Autopsy for malware detection.  
   
 ---
@@ -68,5 +69,4 @@ I’m a cybersecurity and GRC professional with expertise in risk management, co
 My repositories showcase hands-on projects built during my Lighthouse Labs Cybersecurity Bootcamp — including:
 - **Forensic Investigations** (memory/disk analysis, network traffic capture)
 - **Risk Management Plans** (NIST/ISO-compliant documentation)
-- **Secure Server Deployments** (SSH hardening, segmentation, logging)
-- **Automation Tools** like [LogHawk](https://github.com/Tech-ife/LogHawk): a real-time log monitoring tool with email alerts.
+
