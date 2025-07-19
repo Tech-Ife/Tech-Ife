@@ -4,7 +4,7 @@
 ---
 
 ##  About Me  
-I’m a cybersecurity and GRC professional with expertise in risk management, compliance strategy, and security awareness. Passionate about making security clear and actionable for businesses, I help organizations align with ISO, NIST, and GDPR frameworks while integrating security into daily operations.
+I’m a cybersecurity professional with expertise in risk management, compliance strategy, and security awareness. Passionate about making security clear and actionable for businesses, I help organizations align with ISO, NIST, and GDPR frameworks while integrating security into daily operations.
 
 ---
 
