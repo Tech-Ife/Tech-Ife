@@ -55,7 +55,7 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 - [Vulnerability Assessment Report](https://github.com/Tech-Ife/Vulnerability-Assessment)
 - [ISO 27001 Risk Management Plan](https://github.com/Tech-Ife/Risk-Management-Plan-)
 - [NIST RMF Risk Management Plan](#) – Comprehensive framework applying NIST principles for enterprise risk mitigation.
-- [Network Administration: Infrastructure-Vulnerability-Analysis](https://github.com/Tech-Ife/Infrastructure-Vulnerability-Analysis)
+- [Network Administration: Infrastructure Vulnerability Analysis](https://github.com/Tech-Ife/Infrastructure-Vulnerability-Analysis)
 - [SSH Hardening](https://github.com/Tech-Ife/SSH-for-Secure-and-Encrypted-Communication) - Secure Encryption Communication using SSH
 - [Automation Tool LogHawk](https://github.com/Tech-ife/LogHawk) – Real-time log monitoring tool for detecting suspicious patterns and sending alerts.
 - [Digital Forensics Investigation](#) – Advanced forensic analysis using Volatility and Autopsy for malware detection.  
