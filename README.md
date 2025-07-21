@@ -49,6 +49,7 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 ##  📁 Featured Projects  
 - [Vulnerability Assessment Report](https://github.com/Tech-Ife/Vulnerability-Assessment)
 - [ISO 27001 Risk Management Plan](https://github.com/Tech-Ife/Risk-Management-Plan-)
+- [Security Policy Malware Incident Response](https://github.com/Tech-Ife/Security-Policy-Protocols-Malware-Incident-Response-Canadian-Tire-Simulated-)
 - [NIST RMF Risk Management Plan](#) – Comprehensive framework applying NIST principles for enterprise risk mitigation.
 - [Network Administration: Infrastructure Vulnerability Analysis](https://github.com/Tech-Ife/Infrastructure-Vulnerability-Analysis)
 - [Secure Encryption Communication via SSH](https://github.com/Tech-Ife/SSH-for-Secure-and-Encrypted-Communication)  
