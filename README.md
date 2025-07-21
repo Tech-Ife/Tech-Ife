@@ -49,6 +49,7 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 ##  📁 Featured Projects  
 - [Vulnerability Assessment Report](https://github.com/Tech-Ife/Vulnerability-Assessment)
 - [ISO 27001 Risk Management Plan](https://github.com/Tech-Ife/Risk-Management-Plan-)
+- [Malware Incident Response Playbook](https://github.com/Tech-Ife/Malware_Incident_Response_Playbook)
 - [Security Policy Malware Incident Response](https://github.com/Tech-Ife/Security-Policy-Protocols-Malware-Incident-Response-Canadian-Tire-Simulated-)
 - [NIST RMF Risk Management Plan](#) – Comprehensive framework applying NIST principles for enterprise risk mitigation.
 - [Network Administration: Infrastructure Vulnerability Analysis](https://github.com/Tech-Ife/Infrastructure-Vulnerability-Analysis)
@@ -62,6 +63,4 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=github)](https://yourportfolio.com)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:edehchristian@gmail.com)  
-
-My repositories showcase hands-on projects built during my Lighthouse Labs Cybersecurity Bootcamp 
 
