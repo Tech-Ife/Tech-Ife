@@ -1,12 +1,9 @@
 #  Hi, I'm Ifeanyi  
 **Cybersecurity | InfoSec | Governance, Risk & Compliance (GRC) |  Security Awareness | Security Audits (NIST/ISO) | Project Management**
 
----
 
 ##  About Me  
 I’m a cybersecurity professional with expertise in risk management, compliance strategy, and security awareness. Passionate about making security clear and actionable for businesses. I help organizations align with ISO, NIST, and GDPR frameworks while integrating security into daily operations.
-
----
 
 ##  Certifications 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
@@ -17,7 +14,6 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 [![📈 Google PM](https://img.shields.io/badge/Google-Project%20Management-yellow?logo=google)](https://www.coursera.org/professional-certificates/google-project-management)
 [![📘 Cybersecurity RMF](https://img.shields.io/badge/Kennesaw%20State-Risk%20Management%20Framework-blue)](https://www.kennesaw.edu)
 
----
 
 ##  Cybersecurity Frameworks & Methodologies  
 [![NIST RMF](https://img.shields.io/badge/NIST-RMF-blue?logo=nist)](https://csrc.nist.gov/projects/risk-management)
@@ -28,7 +24,6 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 [![MITRE D3FEND](https://img.shields.io/badge/MITRE-D3FEND-blue?logo=mitre)](https://d3fend.mitre.org)
 [![MITRE Shield](https://img.shields.io/badge/MITRE-Shield-green?logo=mitre)](https://shield.mitre.org)
 
----
 
 ##  Professional Skillset & Security Toolkit 
 ![SAP](https://img.shields.io/badge/SAP-ERP-0FAAFF?logo=sap&logoColor=white)
@@ -49,7 +44,7 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 ![NIST RMF](https://img.shields.io/badge/NIST-RMF-green)
 ![OWASP](https://img.shields.io/badge/OWASP-Top%2010-000000?logo=owasp&logoColor=white)
 
----
+
 
 ##  📁 Featured Projects  
 - [Vulnerability Assessment Report](https://github.com/Tech-Ife/Vulnerability-Assessment)
@@ -60,7 +55,7 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 - [Automation Tool LogHawk](https://github.com/Tech-ife/LogHawk) – Real-time log monitoring tool for detecting suspicious patterns and sending alerts.
 - [Digital Forensics Investigation](#) – Advanced forensic analysis using Volatility and Autopsy for malware detection.  
   
----
+
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
