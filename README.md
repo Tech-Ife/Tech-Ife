@@ -53,7 +53,7 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 - [Security Policy Malware Incident Response (IR)](https://github.com/Tech-Ife/Security-Policy-Protocols-Malware-Incident-Response-Canadian-Tire-Simulated-)
 - [NIST RMF Risk Management Plan](#) – Comprehensive framework applying NIST principles for enterprise risk mitigation.
 - [Cybersecurity Monitoring Strategy Using PRTG, A Risk and Vulnerability Report](https://github.com/Tech-Ife/Cybersecurity-Monitoring-Strategy-Using-PRTG/tree/main)
-- [Network Administration: Infrastructure Vulnerability Analysis](https://github.com/Tech-Ife/Infrastructure-Vulnerability-Analysis)
+- [Network Administration Report - Infrastructure Vulnerability Analysis](https://github.com/Tech-Ife/Infrastructure-Vulnerability-Analysis)
 - [Secure Encryption Communication via SSH](https://github.com/Tech-Ife/SSH-for-Secure-and-Encrypted-Communication)  
 - [Real-time log Monitoring Automation Tool LogHawk](https://github.com/Tech-ife/LogHawk)
 - [Investigation and Research Report](https://github.com/Tech-Ife/Investigation-and-Research-Report/tree/main)
@@ -61,7 +61,7 @@ I’m a cybersecurity professional with expertise in risk management, compliance
   
 
 
-## 🌐 Connect with Me  
+##  Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=github)](https://yourportfolio.com)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:edehchristian@gmail.com)  
