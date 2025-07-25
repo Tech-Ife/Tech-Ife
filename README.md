@@ -49,12 +49,13 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 ##  📁 Featured Projects  
 - [Vulnerability Assessment Report](https://github.com/Tech-Ife/Vulnerability-Assessment)
 - [ISO 27001 Risk Management Plan](https://github.com/Tech-Ife/Risk-Management-Plan-)
-- [Malware Incident Response Playbook](https://github.com/Tech-Ife/Malware_Incident_Response_Playbook)
-- [Security Policy Malware Incident Response](https://github.com/Tech-Ife/Security-Policy-Protocols-Malware-Incident-Response-Canadian-Tire-Simulated-)
+- [Malware Incident Response (IR) Playbook](https://github.com/Tech-Ife/Malware_Incident_Response_Playbook)
+- [Security Policy Malware Incident Response (IR)](https://github.com/Tech-Ife/Security-Policy-Protocols-Malware-Incident-Response-Canadian-Tire-Simulated-)
 - [NIST RMF Risk Management Plan](#) – Comprehensive framework applying NIST principles for enterprise risk mitigation.
+- [Cybersecurity Monitoring Strategy Using PRTG, A Risk and Vulnerability Report](https://github.com/Tech-Ife/Cybersecurity-Monitoring-Strategy-Using-PRTG/tree/main)
 - [Network Administration: Infrastructure Vulnerability Analysis](https://github.com/Tech-Ife/Infrastructure-Vulnerability-Analysis)
 - [Secure Encryption Communication via SSH](https://github.com/Tech-Ife/SSH-for-Secure-and-Encrypted-Communication)  
-- [Automation Tool LogHawk](https://github.com/Tech-ife/LogHawk) – Real-time log monitoring tool for detecting suspicious patterns and sending alerts.
+- [Real-time log Monitoring Automation Tool LogHawk](https://github.com/Tech-ife/LogHawk) 
 - [Digital Forensics Investigation](#) – Advanced forensic analysis using Volatility and Autopsy for malware detection.  
   
 
