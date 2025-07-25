@@ -55,7 +55,8 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 - [Cybersecurity Monitoring Strategy Using PRTG, A Risk and Vulnerability Report](https://github.com/Tech-Ife/Cybersecurity-Monitoring-Strategy-Using-PRTG/tree/main)
 - [Network Administration: Infrastructure Vulnerability Analysis](https://github.com/Tech-Ife/Infrastructure-Vulnerability-Analysis)
 - [Secure Encryption Communication via SSH](https://github.com/Tech-Ife/SSH-for-Secure-and-Encrypted-Communication)  
-- [Real-time log Monitoring Automation Tool LogHawk](https://github.com/Tech-ife/LogHawk) 
+- [Real-time log Monitoring Automation Tool LogHawk](https://github.com/Tech-ife/LogHawk)
+- [Investigation and Research Report](https://github.com/Tech-Ife/Investigation-and-Research-Report/tree/main)
 - [Digital Forensics Investigation](#) – Advanced forensic analysis using Volatility and Autopsy for malware detection.  
   
 
