@@ -46,7 +46,7 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 
 
 
-##  📁 Featured Projects  
+##   Featured Projects  
 - [Vulnerability Assessment Report](https://github.com/Tech-Ife/Vulnerability-Assessment)
 - [ISO 27001 Risk Management Plan](https://github.com/Tech-Ife/Risk-Management-Plan-)
 - [Malware Incident Response (IR) Playbook](https://github.com/Tech-Ife/Malware_Incident_Response_Playbook)
