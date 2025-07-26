@@ -63,7 +63,7 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 
 
 ##  Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ifeanyiedeh)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=github)](https://yourportfolio.com)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:edehchristian@gmail.com)  
 
