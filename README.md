@@ -57,7 +57,8 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 - [Secure Encryption Communication via SSH](https://github.com/Tech-Ife/SSH-for-Secure-and-Encrypted-Communication)  
 - [Real-time log Monitoring Automation Tool LogHawk](https://github.com/Tech-ife/LogHawk)
 - [Investigation and Research Report](https://github.com/Tech-Ife/Investigation-and-Research-Report/tree/main)
-- [Digital Forensics Investigation](#) – Advanced forensic analysis using Volatility and Autopsy for malware detection.  
+- [Digital Forensics Investigation](#) – Advanced forensic analysis using Volatility and Autopsy for malware detection.
+- [Security Architecture Recommendations Report](https://github.com/Tech-Ife/Security-Architecture-Recommendations-Report) 
   
 
 
