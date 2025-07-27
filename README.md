@@ -48,6 +48,7 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 
 ##   Featured Projects  
 - [Vulnerability Assessment Report](https://github.com/Tech-Ife/Vulnerability-Assessment)
+- [Digital Forensics Investigation Report](https://github.com/Tech-Ife/Digital-Forensics-Investigation-Report)
 - [ISO 27001 Risk Management Plan](https://github.com/Tech-Ife/Risk-Management-Plan-)
 - [Malware Incident Response (IR) Playbook](https://github.com/Tech-Ife/Malware_Incident_Response_Playbook)
 - [Security Policy Malware Incident Response (IR)](https://github.com/Tech-Ife/Security-Policy-Protocols-Malware-Incident-Response-Canadian-Tire-Simulated-)
@@ -57,7 +58,6 @@ I’m a cybersecurity professional with expertise in risk management, compliance
 - [Secure Encryption Communication via SSH](https://github.com/Tech-Ife/SSH-for-Secure-and-Encrypted-Communication)  
 - [Real-time log Monitoring Automation Tool LogHawk](https://github.com/Tech-ife/LogHawk)
 - [Investigation and Research Report](https://github.com/Tech-Ife/Investigation-and-Research-Report/tree/main)
-- [Digital Forensics Investigation](#) – Advanced forensic analysis using Volatility and Autopsy for malware detection.
 - [Security Architecture Recommendations Report](https://github.com/Tech-Ife/Security-Architecture-Recommendations-Report) 
   
 
